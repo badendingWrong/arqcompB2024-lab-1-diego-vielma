@@ -29,8 +29,11 @@
 ## Proyectos
 - Proyecto 1: Sistema compra-venta
   - Descripción: Consiste en un software que permite registrar productos, clientes y ademas mostrar estadisticas de ventas.
-  - Tecnologías Utilizadas: lenguaje c.
-
+  - Tecnologías Utilizadas: lenguaje c, gcc, Ncurses.
+ 
+- Proyecto 2: Lista de tareas
+  - Descripción: Web básica que permita a los usuarios agregar, eliminar y marcar tareas como completadas.
+  - Tecnologías Utilizadas: HTML, CSS, JAVASCRIPT.
 
 ## Intereses
 - Lectura
